@@ -13,5 +13,90 @@
     "question": "What documents are needed to open an account for an individual?",
     "doc_id": "169MD",
     "phrase": "from an individual while establishing"
+  },
+  {
+    "question": "Does the RBI pay interest on the CRR balances a bank maintains?",
+    "doc_id": "150MD",
+    "phrase": "does not pay any interest on the CRR balances"
+  },
+  {
+    "question": "Which securities count as approved securities for SLR?",
+    "doc_id": "150MD",
+    "phrase": "Following securities shall be considered as"
+  },
+  {
+    "question": "What is the minimum total capital ratio a bank must maintain?",
+    "doc_id": "151MD",
+    "phrase": "Minimum Total Capital (MTC) of 9 per cent"
+  },
+  {
+    "question": "Can a bank offer higher interest rates to senior citizens?",
+    "doc_id": "153MD",
+    "phrase": "senior citizens, offering higher and fixed rates of interest"
+  },
+  {
+    "question": "Will I be charged a penalty if I break my fixed deposit early?",
+    "doc_id": "153MD",
+    "phrase": "comprehensive policy on penalties for premature withdrawal"
+  },
+  {
+    "question": "Can a bank give a loan against its own shares?",
+    "doc_id": "154MD",
+    "phrase": "Loans against its own securities"
+  },
+  {
+    "question": "How quickly must a bank close my credit card after I ask?",
+    "doc_id": "155MD",
+    "phrase": "shall be honoured within seven working days"
+  },
+  {
+    "question": "How soon must a bank send credit information to the credit bureaus?",
+    "doc_id": "156MD",
+    "phrase": "shall submit such credit information to CICs within four"
+  },
+  {
+    "question": "Who must approve limits on a bank's consumer credit exposure?",
+    "doc_id": "157MD",
+    "phrase": "Board approved limits in respect of various sub-segments"
+  },
+  {
+    "question": "Who decides the interest reset dates on a floating rate loan?",
+    "doc_id": "161MD",
+    "phrase": "specify interest reset dates on its floating rate loans"
+  },
+  {
+    "question": "How much provision must a bank make for a sub-standard asset?",
+    "doc_id": "164MD",
+    "phrase": "general provision of 15 per cent on total outstanding"
+  },
+  {
+    "question": "When should a bank classify a loan as a special mention account?",
+    "doc_id": "165MD",
+    "phrase": "classifying such assets as special mention accounts"
+  },
+  {
+    "question": "When is a borrower treated as a wilful defaulter?",
+    "doc_id": "166MD",
+    "phrase": "the borrower has the capacity to honour the said obligations"
+  },
+  {
+    "question": "How often must a bank update KYC for a high-risk customer?",
+    "doc_id": "169MD",
+    "phrase": "at least once in every two years for high-risk customers"
+  },
+  {
+    "question": "What rules apply before a bank charges for not keeping minimum balance?",
+    "doc_id": "170MD",
+    "phrase": "While levying charges for non-maintenance of minimum balance"
+  },
+  {
+    "question": "Which functions can a bank not outsource?",
+    "doc_id": "171MD",
+    "phrase": "core management functions including Internal Audit"
+  },
+  {
+    "question": "What happens to money in an account that is unclaimed for ten years?",
+    "doc_id": "174MD",
+    "phrase": "any amount remaining unclaimed for ten years or more"
   }
 ]
