@@ -1,0 +1,17 @@
+[
+  {
+    "question": "When does a loan account become a non-performing asset?",
+    "doc_id": "164MD",
+    "phrase": "classify a loan or an advance as NPA"
+  },
+  {
+    "question": "Can a bank issue a credit card without the customer's consent?",
+    "doc_id": "155MD",
+    "phrase": "unsolicited card"
+  },
+  {
+    "question": "What documents are needed to open an account for an individual?",
+    "doc_id": "169MD",
+    "phrase": "from an individual while establishing"
+  }
+]
